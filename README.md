@@ -1,0 +1,2 @@
+# ATLAS-Visualiser
+Python visualisation tool that renders 3D particle tracks and energy deposits from simulated ATLAS detector collision events.
